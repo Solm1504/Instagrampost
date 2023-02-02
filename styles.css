@@ -1,0 +1,62 @@
+.original {
+    background-color: black; 
+    padding-top: 100px;
+    padding-left: 500px;
+
+}
+
+
+.post {
+    height: 550px;
+    width: 420px;
+    border: 1px solid grey;
+    display: flex; flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    
+    
+}
+.cabecera { 
+    display:flex; flex-direction: row;
+    justify-content: space-between;
+    padding: 0.3cm;
+    margin-top: 10px;
+    
+}
+.pepito{
+    display: flex; flex-direction: column; 
+    width: 80%;
+    
+}
+.iconohtml5{
+    width: 10%;
+}
+.menu{
+    width: 10%;
+}
+.iconos{
+    display:flex; flex-direction: row;
+    justify-content: space-between;
+}
+
+.casimiro {
+    margin-left: 8px;
+}
+
+.guardar{
+    margin-right: 5px;
+
+}
+
+.texto1 {
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Texto {
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-bottom: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+}
